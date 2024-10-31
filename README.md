@@ -7,11 +7,11 @@
 
 * <b>Total Sales</b>: Represents the overall revenue generated across all outlets, allowing analysis of peak and off-peak sales periods.
 * <b>Average Sales</b>: Measures the average sales value, helping identify performance benchmarks and seasonal trends.
-* <b>Number of Items: Tracks the quantity of products, essential for inventory planning and demand forecasting.
+* <b>Number of Items</b>: Tracks the quantity of products, essential for inventory planning and demand forecasting.
 * <b>Average Rating</b>: Displays the average customer rating per product or outlet, providing insights into customer satisfaction and areas for improvement.
 * <b>Outlet Size</b>: Analyzes sales performance based on outlet size (e.g., small, medium, large) to assess size-based efficiency.
 * <b>Outlet Type</b>: Differentiates sales across outlet types (e.g., Breads, Dairy) to identify the most profitable types.
-* </>Outlet Establishment</b>: Examines the impact of the outlet's age on sales, helping evaluate newer vs. established locations.
+* <b>Outlet Establishment</b>: Examines the impact of the outlet's age on sales, helping evaluate newer vs. established locations.
 * <b>Fat Content</b>: Tracks product-specific data on fat content (e.g., low-fat, regular) to understand customer preferences and health trends.
 
 
