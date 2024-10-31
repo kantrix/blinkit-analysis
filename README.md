@@ -15,9 +15,9 @@
 * <b>Fat Content</b>: Tracks product-specific data on fat content (e.g., low-fat, regular) to understand customer preferences and health trends.
 
 ## Benefits of the Dashboard:
-#### This dashboard enables a granular view of Blinkit's sales data, uncovering trends, optimizing inventory, and enhancing customer satisfaction through targeted, data-driven strategies
+#### This dashboard enables a granular view of Blinkit's sales data, uncovering trends, optimizing inventory, and enhancing customer satisfaction through targeted data-driven strategies
   
-
+## View Dashboard, Click here: <I src="https://app.powerbi.com/view?r=eyJrIjoiZDJjYTM2MGUtMDg1ZC00NjE4LWJlZjgtZDU3OTNhZmNmMWIwIiwidCI6IjFkMjlkNzM5LTIzY2YtNDMwMS1hNTZlLTU1YzA0ZDg1NGQxOSJ9">Blinkit-Analysis</i>
 
 
 
