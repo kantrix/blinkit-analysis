@@ -1,1 +1,3 @@
-## Blinkit Sales Analysis Via Power BI
+## Blinkit Sales Analysis with Power BI
+![Uploading image.png…]()
+
