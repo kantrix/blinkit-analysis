@@ -22,6 +22,6 @@
 ### For more info follow me:
 <a href="https://www.linkedin.com/in/kant-ai/" sizes="16x16">![image](https://github.com/user-attachments/assets/465b5755-9b18-4ba8-b850-00be385b4e1e)</a>
 
-<a href="https://genrix.netlify.app/" sizes="16x16">![image](https://github.com/user-attachments/assets/9dce15d8-90e3-47ab-9795-0a97996b0e82)</a>
+<a href="https://genrix.netlify.app/" sizes="16x16">![image](https://github.com/user-attachments/assets/d4490876-5dd2-464b-b0a0-693d5b946169)</a>
 
 
