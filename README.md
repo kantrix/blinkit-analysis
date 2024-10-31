@@ -19,9 +19,10 @@
   
 ### View Dashboard, Click here: <a href="https://app.powerbi.com/view?r=eyJrIjoiZDJjYTM2MGUtMDg1ZC00NjE4LWJlZjgtZDU3OTNhZmNmMWIwIiwidCI6IjFkMjlkNzM5LTIzY2YtNDMwMS1hNTZlLTU1YzA0ZDg1NGQxOSJ9">Blinkit-Analysis</a>
 
-### For more info follow me:
-<a href="https://www.linkedin.com/in/kant-ai/">Linkedin</a>
+--------
 
-<a href="https://genrix.netlify.app/">Portfolio</a>
+  ### Author: Lakshmi Kant
+* Linkedin: https://www.linkedin.com/in/kant-ai/
+* Portfolio Website: https://genrix.netlify.app/
 
 
