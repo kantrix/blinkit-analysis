@@ -20,7 +20,7 @@
 ### View Dashboard, Click here: <a href="https://app.powerbi.com/view?r=eyJrIjoiZDJjYTM2MGUtMDg1ZC00NjE4LWJlZjgtZDU3OTNhZmNmMWIwIiwidCI6IjFkMjlkNzM5LTIzY2YtNDMwMS1hNTZlLTU1YzA0ZDg1NGQxOSJ9">Blinkit-Analysis</a>
 
 ### For more info follow me:
-<a href="https://www.linkedin.com/in/kant-ai/">![image](https://github.com/user-attachments/assets/81f58bf6-b813-4595-b748-01efbe507cc5)</a>
+<a href="https://www.linkedin.com/in/kant-ai/">![image](https://github.com/user-attachments/assets/89fc8143-4376-496d-8697-dfea5576c45a)</a>
 
 
 
