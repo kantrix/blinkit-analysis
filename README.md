@@ -5,7 +5,7 @@
 
 ## Key Metrics Tracked:
 
-* #####Total Sales#####: Represents the overall revenue generated across all outlets, allowing analysis of peak and off-peak sales periods.
+* ####Total Sales####: Represents the overall revenue generated across all outlets, allowing analysis of peak and off-peak sales periods.
 
 
 
