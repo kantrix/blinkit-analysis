@@ -17,7 +17,13 @@
 ## Benefits of the Dashboard:
 #### This dashboard enables a granular view of Blinkit's sales data, uncovering trends, optimizing inventory, and enhancing customer satisfaction through targeted data-driven strategies
   
-## View Dashboard, Click here: <a href="https://app.powerbi.com/view?r=eyJrIjoiZDJjYTM2MGUtMDg1ZC00NjE4LWJlZjgtZDU3OTNhZmNmMWIwIiwidCI6IjFkMjlkNzM5LTIzY2YtNDMwMS1hNTZlLTU1YzA0ZDg1NGQxOSJ9">Blinkit-Analysis</a>
+### View Dashboard, Click here: <a href="https://app.powerbi.com/view?r=eyJrIjoiZDJjYTM2MGUtMDg1ZC00NjE4LWJlZjgtZDU3OTNhZmNmMWIwIiwidCI6IjFkMjlkNzM5LTIzY2YtNDMwMS1hNTZlLTU1YzA0ZDg1NGQxOSJ9">Blinkit-Analysis</a>
+
+### For more info follow me:
+<a herf="https://www.linkedin.com/in/kant-ai/">![image](https://github.com/user-attachments/assets/81f58bf6-b813-4595-b748-01efbe507cc5)</a>
+
+
+
 
 
 
