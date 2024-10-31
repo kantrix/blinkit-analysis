@@ -14,6 +14,10 @@
 * <b>Outlet Establishment</b>: Examines the impact of the outlet's age on sales, helping evaluate newer vs. established locations.
 * <b>Fat Content</b>: Tracks product-specific data on fat content (e.g., low-fat, regular) to understand customer preferences and health trends.
 
+##Benefits of the Dashboard:
+#### This dashboard enables a granular view of Blinkit's sales data, uncovering trends, optimizing inventory, and enhancing customer satisfaction through targeted, data-driven strategies
+  
+
 
 
 
