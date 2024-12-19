@@ -23,6 +23,6 @@
 
   ### Author: Lakshmi Kant
 * Linkedin: https://www.linkedin.com/in/kant-ai/
-* Portfolio Website: https://genrix.netlify.app/
+* Portfolio: https://kantrixai.netlify.app/
 
 
